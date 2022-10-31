@@ -36,3 +36,4 @@ Hoooooooooooooooooooooooooooooooooooooooooooooooo boy
 4. Tutorials are fine, but make sure you understand it. Someone like Brackeys is cool, but I still don't understand stuff. If you don't get it, ask for help.
 5. You've got time, so use it. Don't waste it on just staring at your screen. Try to learn. Try to ask.
 6. Failure isn't the end. Falling and getting back up. It's a big part of the game dev journey.
+7. Keep an overview. It's very easy to lose track of the days, time and energy.
