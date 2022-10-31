@@ -26,3 +26,7 @@ J -- Wil je nog een keer spelen? --> start
 ```
 
 # What makes this Tower Defense Game different?
+This game brings a few fun new mechanics to the mix. Want the satisfaction of wiping out an entire wave of enemies with one weapon? You've got it! Different towers and enemies! Easy! Breathtaking music? Can't fight without it! On paper you might not think much of these mechanics, but it sets the right tone without a doubt.
+
+# A price?
+It's 100% free!
