@@ -23,6 +23,6 @@ G -- Ik verlies --> I[Jouw base is dood en je hebt het spel verloren]
 H --> J((Terug naar het Main Menu))
 I --> J((Terug naar het Main Menu))
 J -- Wil je nog een keer spelen? --> start
-
+```
 
 # What makes this Tower Defense Game different?
