@@ -11,18 +11,18 @@ It works like this:
 ```mermaid
 flowchart TD
 
-start((Koopt eerse tower en plaatst em)) --> A(drukt op start)
-A --> B(Wave begint)
-B --> C(enemies vallen aan)
-C --> D(Tower vecht als de enemies dichtbij de tower komen)
-D --> E(enemy wordt gedood)
-E --> F(geld verdiend)
-F --> G{Einde wave. Je kan weer torens kopen.}
-G -- Ik ben aan het winnen --> H[Ga zo door totdat de laatste wave over is en je hebt het spel gewonnen.]
-G -- Ik verlies --> I[Jouw base is dood en je hebt het spel verloren]
-H --> J((Terug naar het Main Menu))
-I --> J((Terug naar het Main Menu))
-J -- Wil je nog een keer spelen? --> start
+start((Buy and place a first tower)) --> A(Press the start button)
+A --> B(Wave begins)
+B --> C(enemies attack)
+C --> D(Tower shoots if the enemies come close enough)
+D --> E(enemy gets killed)
+E --> F(money earned!)
+F --> G{Buy more towers against more enemies}
+G -- I'm winning --> H[Keep going until you've reached the final wave and you've won!]
+G -- I'm losing --> I[Your base has been destroyed. This means you've lost.]
+H --> J((Back to the main menu))
+I --> J((Back to the main menu))
+J -- Want to play again? --> start
 ```
 
 # What makes this Tower Defense Game different?
